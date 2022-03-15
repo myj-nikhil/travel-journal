@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarvel-journal/static/css/main.97bdf466.css",
+    "main.js": "/tarvel-journal/static/js/main.d2540771.js",
+    "static/js/787.39019643.chunk.js": "/tarvel-journal/static/js/787.39019643.chunk.js",
+    "index.html": "/tarvel-journal/index.html",
+    "main.97bdf466.css.map": "/tarvel-journal/static/css/main.97bdf466.css.map",
+    "main.d2540771.js.map": "/tarvel-journal/static/js/main.d2540771.js.map",
+    "787.39019643.chunk.js.map": "/tarvel-journal/static/js/787.39019643.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97bdf466.css",
+    "static/js/main.d2540771.js"
+  ]
+}
