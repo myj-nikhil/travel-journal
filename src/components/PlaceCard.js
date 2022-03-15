@@ -1,4 +1,5 @@
 import React from "react";
+import locationIcon from "./LocationIcon.png"
 
 
 
@@ -11,7 +12,7 @@ const PlaceCard = (props) => <>
                                         
                                         <div className="card-details-location">
                                             <div className="card-details-location-country">
-                                                <img src="/images/LocationIcon.png" alt="location icon"/>
+                                                <img src={locationIcon} alt="location icon"/>
                                                 <p>{props.location}</p>
                                             </div>
                                             <a href={props.googleMapsUrl} target="_blank" rel="noreferrer">View on Google Maps</a>
